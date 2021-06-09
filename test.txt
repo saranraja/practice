@@ -4,3 +4,4 @@ line3
 line5
 line6 added by bob
 
+line6 added by alice
